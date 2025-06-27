@@ -1,6 +1,6 @@
 # NEQ6-Next
 
-![NEQ-Next](https://github.com/ArjanteMarvelde/NEQ6-Next/tree/main/mount.jpg) 
+![NEQ-Next](https://github.com/ArjanteMarvelde/NEQ6-Next/blob/main/mount.jpg) 
 
 This project replaces the NEQ6 stock stepper-driver electronics with an OnStep Mini based one. The implementation of this driver is designed as an extension for a Raspberry Pi 4B, where  it plugs into the 40-pin extension connector. Apart from OnStep, the extension board provides the power supply and a GPS module. The PCB connectors are identical to the original NEQ6 ones, so that the assembly is a drop-in replacement for the old driver, by merely plugging in the steppers and Polar alignment LED.  
 
